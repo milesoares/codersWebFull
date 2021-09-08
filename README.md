@@ -1,4 +1,4 @@
-<div align="center"><img src="https://lc-public-assets.s3.sa-east-1.amazonaws.com/images/Logos/logoLcPng.webp" width="160px" decoding="async"  srcset="https://lc-public-assets.s3.sa-east-1.amazonaws.com/videos/Gifs/lcSiteheader.gif 1x, https://lc-public-assets.s3.sa-east-1.amazonaws.com/videos/Gifs/lcSiteheader.gif 2x">
+<div align="center"><img src="https://lc-public-assets.s3.sa-east-1.amazonaws.com/videos/Gifs/lcSiteheader.gif" width="160px" decoding="async"  srcset="https://lc-public-assets.s3.sa-east-1.amazonaws.com/videos/Gifs/lcSiteheader.gif 1x, https://lc-public-assets.s3.sa-east-1.amazonaws.com/videos/Gifs/lcSiteheader.gif 2x">
 </div>
 
 ---
